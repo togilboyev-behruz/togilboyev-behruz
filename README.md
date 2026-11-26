@@ -1,19 +1,19 @@
-# Salom, men Behruz 👋
+Salom, men Behruz 👋
 
-Men **Data Science** yo'nalishidagi mutaxassisman. Ma'lumotlarni tahlil qilish va ulardan foydali xulosa chiqarishni yaxshi ko'raman.
+Men Data Science yo'nalishidagi mutaxassisman.
 
-## 🛠 Texnologiyalar
-- **Til:** Python, SQL
-- **Kutubxonalar:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- **Vositalar:** Jupyter Notebook, Git, GitHub
+ 🛠 Texnologiyalar
+- Til: Python, 
+- Kutubxonalar: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- Vositalar: Jupyter Notebook, Git, GitHub
 
-## 📚 Hozir o'rganayapman
+ 📚 Hozir o'rganayapman
 - Machine Learning
 - Ma'lumotlarni vizualizatsiya qilish
 
-## 📂 Loyihalarim
+📂 Loyihalarim
 Tez orada qo'shiladi.
 
-## 📫 Aloqa
+ 📫 Aloqa
 - Telegram: @behruz_code
 - Email: togilboyevbehruz@email.com
