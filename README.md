@@ -1,16 +1,15 @@
-## Hi there 👋
+# Salom, men Behruz 👋
 
-<!--
-**togilboyev-behruz/togilboyev-behruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Men boshlovchi dasturchiman. Toshkentda yashayman.
 
-Here are some ideas to get you started:
+## 🛠 Texnologiyalar
+- HTML, CSS
+- Git va GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Hozir o'rganayapman
+- JavaScript
+- Portfolio sayt yaratish
+
+## 📫 Aloqa
+- Telegram: @sizning_username
+- Email: sizning@email.com
