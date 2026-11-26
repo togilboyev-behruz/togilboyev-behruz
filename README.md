@@ -3,8 +3,8 @@ Salom, men Behruz 👋
 Men Data Science yo'nalishidagi mutaxassisman.
 
  🛠 Texnologiyalar
-- Til: Python, 
-- Kutubxonalar: Pandas, NumPy, Matplotlib, 
+- Til: Python.
+- Kutubxonalar: Pandas, NumPy, Matplotlib.
 - Vositalar: Git, GitHub
 
  📚 Hozir o'rganayapman
