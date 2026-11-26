@@ -15,5 +15,5 @@ Men **Data Science** yo'nalishidagi mutaxassisman. Ma'lumotlarni tahlil qilish v
 Tez orada qo'shiladi.
 
 ## 📫 Aloqa
-- Telegram: @sizning_username
-- Email: sizning@email.com
+- Telegram: @behruz_code
+- Email: togilboyevbehruz@email.com
