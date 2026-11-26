@@ -4,8 +4,8 @@ Men Data Science yo'nalishidagi mutaxassisman.
 
  🛠 Texnologiyalar
 - Til: Python, 
-- Kutubxonalar: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-- Vositalar: Jupyter Notebook, Git, GitHub
+- Kutubxonalar: Pandas, NumPy, Matplotlib, 
+- Vositalar: Git, GitHub
 
  📚 Hozir o'rganayapman
 - Machine Learning
